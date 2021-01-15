@@ -7,7 +7,7 @@ senior
 
 jiaju.c@outlook.com
 
-https://jiajuc.github.io/chenjiaju.github.io/
+https://jiajuc.github.io/JiajuChen/
 
 ### About Me
 
