@@ -1,15 +1,15 @@
-## Jiaju Chen
+# Jiaju Chen
 
 senior 
 [Shanghai Jiaotong University](https://www.sjtu.edu.cn/)
 
-#### Contact
+## Contact
 
 jiaju.c@outlook.com
 
 https://jiajuc.github.io/JiajuChen/
 
-### About Me
+## About Me
 
 I am a senior in [Shanghai Jiaotong University](https://www.sjtu.edu.cn/)
 
