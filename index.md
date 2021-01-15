@@ -1,35 +1,19 @@
 ## Jiaju Chen
 
+senior 
+[Shanghai Jiaotong University](https://www.sjtu.edu.cn/)
 
+#### Contact
 
-### Markdown
+jiaju.c@outlook.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://jiajuc.github.io/chenjiaju.github.io/
 
-```markdown
-Syntax highlighted code block
+### About Me
 
-# Header 1
-## Header 2
-### Header 3
+I am a senior in [Shanghai Jiaotong University](https://www.sjtu.edu.cn/)
 
-- Bulleted
-- List
+## Conference and Workshop Proceedings
 
-1. Numbered
-2. List
+Lingdong Wang; Liyao Xiang*; Jiayu Xu; Jiaju Chen; Xing Zhao; Dixi Yao; Xinbing Wang; Baochun Li; ‘‘[Context-Aware Deep Model Compression for Edge Cloud Computing](http://xiangliyao.cn/papers/icdcs-lingdong-20.pdf)," in Proc. IEEE International Conference on Distributed Computing Systems (ICDCS), Singapore, July 8 - 10, 2020.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiajuC/chenjiaju.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
